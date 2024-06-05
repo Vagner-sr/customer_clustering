@@ -1,6 +1,6 @@
-# Customer Clustering for Discount Coupon Distribution Project
+# Customer Clustering Distribution Project
 
-This project aims to cluster customers into different groups to enable the company to treat them according to their specific profiles. This will allow for the customization of marketing strategies, such as targeted discount coupon distribution, to increase customer satisfaction and optimize sales.
+This project aims to cluster customers into different groups to enable the company to treat them according to their specific profiles. This will allow for the customization of marketing strategies to increase customer satisfaction and optimize sales.
 
 ## About the Project
 
@@ -66,4 +66,4 @@ We analyzed the resulting clusters to identify customer profiles and behavior pa
 
 ## Conclusion
 
-This project provides a solid foundation for customer segmentation, enabling the identification of distinct profiles and customization of marketing strategies. With the insights obtained, the company can send targeted discount coupons, increasing customer satisfaction and optimizing sales.
+This project provides a solid foundation for customer segmentation, enabling the identification of distinct profiles and customization of marketing strategies. With the insights obtained, the company can increasing customer satisfaction and optimizing sales.
